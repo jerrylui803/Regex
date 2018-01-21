@@ -1,5 +1,5 @@
 # Regex
-This is a project I completed in 2016 about regular expression in python.
+This is a project I completed in 2016 about regular expressions in python.
 
 This is a stripped-down simplied regular expression form that contains all the essential principles.
 The alphabet is {0, 1, 2} and we have the following operators/symbols:
