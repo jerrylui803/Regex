@@ -12,12 +12,10 @@ The alphabet is {0, 1, 2} and we have the following operators/symbols:
 
 and it contains the following functions:
 
-is_regex(s): which takes a string s and produces True if it is a valid regular expression (according
-to the characterization in the introduction of this handout), but False otherwise.
+is_regex(s): which takes a string s and produces True if it is a valid regular expression, and False otherwise.
 
 all_regex permutations(s): which takes a string s and produces the set of permutations of s
-that are also valid regular expressions (according to the characterization in the introduction
-of this handout)
+that are also valid regular expressions
 
 regex_match(r, s): which returns True if and only if string s matches the regular expression
 tree rooted at r.
