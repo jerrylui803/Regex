@@ -26,4 +26,4 @@ build_regex_tree(regex): which takes a valid regular expression string regex, bu
 regular expression tree, and returns its root.
 
 
-If it is still not clear, there are detailed documentation in the code
+If it is still not clear, there are detailed documentations in the code
